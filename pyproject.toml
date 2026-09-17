@@ -1,0 +1,17 @@
+[project]
+name = "OReilly-2026-September-uv-2026-09"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter",
+    "nbconvert[webpdf]",
+    "ipyparallel",
+    "gitautopush",
+    "ipython",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "plotly",
+    "pyarrow",
+    "xlrd",
+]
